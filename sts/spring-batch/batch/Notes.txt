@@ -1,0 +1,4 @@
+
+ref:
+https://examples.javacodegeeks.com/enterprise-java/spring/batch/spring-batch-etl-job-example/
+

@@ -1,0 +1,8 @@
+ref:
+https://www.javacodegeeks.com/2016/06/spring-boot-spring-data-jpa-integration.html
+
+http://localhost:8080/employee
+
+http://localhost:8080/greeting
+
+run as, SpringBoot App

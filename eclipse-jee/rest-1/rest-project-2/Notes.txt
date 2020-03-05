@@ -1,0 +1,9 @@
+ref:
+http://www.concretepage.com/spring-4/spring-4-rest-web-service-json-example-tomcat
+
+deploy to tomcat.
+
+http://localhost:8080/rest-project-2/data/person
+
+http://localhost:8080/rest-project-2/data/person?id=15
+
